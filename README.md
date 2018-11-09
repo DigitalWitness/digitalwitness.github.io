@@ -5,4 +5,4 @@ Digital Witness is an application for submitting digital evidence to law enforce
 
 ## Getting Started
 
-To find out more, you can read our [paper](http://jpfairbanks.net/publication/digital_witness/) or browse our ![slides](http://jpfairbanks.net/doc/slides/IEEE_HST.pdf)
+To find out more, you can read our [paper](http://jpfairbanks.net/publication/digital_witness/) or browse our [slides](http://jpfairbanks.net/doc/slides/IEEE_HST.pdf)
